@@ -4,9 +4,22 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kyriakosmarkianos&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kyriakosmarkianos/)
 
+Hey! I'm new here so go easy on me! 
+
+I'll start by sharing a picture of my favourite spot on the planet. It's where I'm zen.max...  
+It's the beach at the bottom of the garden at my home in Greece.  
+(No filters, just a wonky shot with my mobile)
+
+![Sunset](docs/Sunset.jpg)
+
+
+And with that, we move onto reality... 
+
 After two decades as a Client Director in Technology Consulting, I'm going back to my routes to re-learn hands-on in software engineering and cybersecurity.
 
-I have worked with some of the most interesting clients on data management, business intelligence, and advanced analytics across various industries. Now, I'm looking to channel this experience and solve different problems by building a strong foundation in software engineering and  cybersecurity.
+I have worked with some of the most interesting clients on data management, business intelligence, and advanced analytics across various industries. Now, I'm looking to channel this experience and solve different problems by building a strong foundation in software engineering and cybersecurity.
+
+
 
 ### 🚀 Background
 
@@ -44,7 +57,10 @@ I'm currently immersed in a comprehensive Cybersecurity Bootcamp, covering:
 - Ethical Hacking
 - Network Security
 - Cryptography
-- 
+
+# <span style="color: red;">This text is red.</span>
+# Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+
 - Incident Response
 - Security Information and Event Management (SIEM)
 
