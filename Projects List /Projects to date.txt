@@ -1,0 +1,96 @@
+Cyber Security Projects: 
+
+    Network Security Assessment
+        - Mapped network topology and conducted vulnerability scanning of local network
+        - Analysed findings and documented security vulnerabilities by severity level
+        - Produced comprehensive technical documentation of methodology and results
+    
+    Penetration Testing Domain Investigation Project
+        - Investigated domain reachability and IP addressing for multiple websites
+        - Performed subdomain enumeration and JavaScript library version identification
+        - Utilised advanced search techniques for specific file-based research
+        - Documented findings in a comprehensive technical report
+     
+    Cybersecurity SQL Injection Project
+        - Identified and exploited SQL injection vulnerabilities in database input scripts
+        - Developed secure input handling using prepared statements to mitigate injection risks
+        - Demonstrated practical understanding of database security and vulnerability remediation techniques
+     
+    Cybersecurity Vulnerability Exploration Project (Cross-site scripting) 
+        - Investigated Python script security vulnerabilities
+        - Developed input files to trigger external function execution
+        - Demonstrated practical understanding of code injection techniques
+    
+    Web Server Hardening and Security Implementation Project - PKI and Man-in-the-middle attack
+        - Installed and configured Apache web server across different operating systems
+        - Created and implemented self-signed SSL certificate
+        - Performed browser-specific certificate installation and validation
+        - Documented server security configuration and certificate analysis
+
+
+Python Development Projects:
+ 
+    Python String and Number Processing Projects
+  
+        Project 1: Data Manipulation Tool
+        - Developed program for advanced data manipulation and character analysis
+        - Implemented various data operations including character replacement and substring extraction
+        - Created dynamic text processing functionalities
+    
+        Project 2: Number Calculator Application
+        - Created interactive program for basic mathematical operations
+        - Implemented multi-number calculations with user input
+        - Developed clear output display for various arithmetic operations
+    
+        Project 3: Triathlon Award Calculator
+        - Developed program to evaluate triathlon completion times
+        - Implemented tiered award system based on performance criteria
+        - Created comprehensive time calculation and award determination logic
+ 
+    Python Control Flow Projects
+    
+        Project 1: Number Processing Application
+        - Created Python program for continuous number input and validation
+        - Implemented average calculation with specific exclusion criteria
+        - Utilised while loop for dynamic user interaction
+        
+        Project 2: Pattern Generation Program
+        - Developed Python script to generate complex arrow pattern
+        - Implemented nested control structures combining if-else and for loops
+        - Created scalable pattern generation logic
+ 
+
+    Holiday Cost Calculation Project
+        - Developed Python application for comprehensive travel expense estimation
+        - Implemented modular functions to calculate hotel, flight, and car rental costs
+        - Created interactive user input system for personalised holiday budgeting
+        - Designed flexible pricing model with multiple destination options
+     
+    String Manipulation 
+        Project 1: String Case Transformation
+        - Developed Python script for character and word case alternation
+        - Implemented string manipulation techniques using split() and join() functions
+    Project 2: Café Inventory Valuation System
+        - Created comprehensive inventory management application
+        - Calculated total stock value by integrating menu, stock, and pricing data
+        - Implemented dynamic inventory calculation using Python dictionaries
+ 
+ 
+    Database and Student Management Projects
+    
+        Project 1: Student Data Processing
+        - Developed Python script to parse and categorise text file data
+        - Extracted and formatted student names and birthdates
+        - Implemented file reading and data manipulation techniques
+        
+        Project 2: Student Exam Registration System
+        - Created student registration application with dynamic ID capture
+        - Implemented file writing functionality for exam venue attendance
+        - Developed user-interactive registration process with systematic ID logging
+ 
+    Object-Oriented Email Simulator Project
+        - Developed email management system using Python object-oriented programming
+        - Implemented email class with read/unread tracking functionality
+        - Created inbox management methods including email listing, reading, and tracking
+        - Designed interactive user interface for email interaction and management
+
